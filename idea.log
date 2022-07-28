@@ -1,0 +1,525 @@
+2022-07-28 09:48:09,976 [      4]   INFO - #c.i.i.StartupUtil - ------------------------------------------------------ IDE STARTED ------------------------------------------------------
+2022-07-28 09:48:09,995 [     23]   INFO - #c.i.i.p.PluginManager - Using cached broken plugins file
+2022-07-28 09:48:10,147 [    175]   INFO - #c.i.i.p.PluginManager - Plugin PluginDescriptor(name=Groovy, id=org.intellij.groovy, descriptorPath=plugin.xml, path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\plugins\Groovy, version=221.5921.22, package=org.jetbrains.plugins.groovy, isBundled=true) misses optional descriptor duplicates-groovy.xml
+2022-07-28 09:48:10,148 [    176]   INFO - #c.i.i.p.PluginManager - Plugin PluginDescriptor(name=Groovy, id=org.intellij.groovy, descriptorPath=plugin.xml, path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\plugins\Groovy, version=221.5921.22, package=org.jetbrains.plugins.groovy, isBundled=true) misses optional descriptor duplicates-detection-groovy.xml
+2022-07-28 09:48:10,208 [    236]   INFO - #c.i.i.p.PluginManager - Module intellij.space.gateway is not enabled because dependency com.jetbrains.gateway is not available
+Module intellij.space.php is not enabled because dependency com.jetbrains.php is not available
+Module kotlin-ultimate.javascript.nodeJs is not enabled because dependency NodeJS is not available
+Module kotlin-ultimate.javascript.debugger is not enabled because dependency JavaScriptDebugger is not available
+Module intellij.space.index is not enabled because dependency intellij.indexing.shared is not available
+Module kotlin-ultimate.common-for-kotlin is not enabled because dependency com.intellij.nativeDebug is not available
+Module kotlin-ultimate.ultimate-native is not enabled because dependency kotlin-ultimate.common-for-kotlin is not available
+2022-07-28 09:48:10,234 [    262]   INFO - #c.i.i.p.PluginManager - Loaded bundled plugins: IDEA CORE (221.5921.22), IDE Features Trainer (221.5921.22), Grazie (221.5921.22), Toml (221.5921.22), Settings Repository (221.5921.22), YAML (221.5921.22), WSL File System Support (221.5921.22), TextMate Bundles (221.5921.22), Terminal (221.5921.22), JetBrains maven model api classes (221.5921.22), JetBrains Repository Search (221.5921.22), Qodana (221.5921.22), EditorConfig (221.5921.22), WebP Support (221.5921.22), Mercurial (221.5921.22), Space (221.5921.22), Shell Script (221.5921.22), Settings Sync (221.5921.22), Projector Libraries for Code With Me and Remote Development (221.5921.22), Visual Studio Keymap (221.5921.22), NetBeans Keymap (221.5921.22), Eclipse Keymap (221.5921.22), Images (221.5921.22), JetBrains Marketplace Licensing Support (221.5921.22), Windows 10 Light Theme (221.5921.22), Copyright (221.5921.22), Properties (221.5921.22), Gradle (221.5921.22), Java (221.5921.22), JavaFX (221.5921.22), Kotlin (221-1.6.21-release-337-IJ5921.22), Java Bytecode Decompiler (221.5921.22), Eclipse Interoperability (221.5921.22), Java Stream Debugger (221.5921.22), Package Search (221.5921.22), com.intellij.tracing.ide (221.5921.22), Java IDE Customization (221.5921.22), Java Internationalization (221.5921.22), UI Designer (221.5921.22), Configuration Script (221.5921.22), Shared Indexes (221.5921.22), Machine Learning Code Completion (221.5921.22), Smali Support (221.5921.22), XPathView + XSLT (221.5921.22), IntelliLang (221.5921.22), Markdown (221.5921.22), Task Management (221.5921.22), XSLT Debugger (221.5921.22), TestNG (221.5921.22), Subversion (221.5921.22), Perforce Helix Core (221.5921.22), Lombok (221.5921.22), JUnit (221.5921.22), GitHub (221.5921.22), Git (221.5921.22), IDE Features Trainer: Git Lessons (221.5921.22), ChangeReminder (221.5921.22), Machine Learning in Search Everywhere (221.5921.22), Code Coverage for Java (221.5921.22), Bytecode Viewer (221.5921.22), Groovy (221.5921.22), Ant (221.5921.22), Maven (221.5921.22), Gradle-Java (221.5921.22), Gradle-Maven (221.5921.22), Refactoring Detector (221.5921.22), Gradle DSL API (221.5921.22), Gradle Dependency Updater Implementation (221.5921.22), Android (2020.3.1 Final.221.5921.22), Code With Me (221.5921.22), Plugin DevKit (221.5921.22)
+2022-07-28 09:48:10,234 [    262]   INFO - #c.i.i.p.PluginManager - Loaded custom plugins: Key Promoter X (2022.2), IdeaVim (1.10.3), Illuminated Cloud 2 (2.2.2.9), GitToolBox (212.9.7), Rainbow Brackets (6.25)
+2022-07-28 09:48:10,295 [    323]   INFO - #c.i.i.StartupUtil - JNA library (64-bit) loaded in 301 ms
+2022-07-28 09:48:10,299 [    327]   INFO - #c.i.o.u.i.w.IdeaWin32 - Native filesystem for Windows is operational
+2022-07-28 09:48:10,316 [    344]   INFO - #c.i.i.StartupUtil - IDE: IntelliJ IDEA (build #IC-221.5921.22, 21 Jun 2022 16:07)
+2022-07-28 09:48:10,316 [    344]   INFO - #c.i.i.StartupUtil - OS: Windows 10 (10.0, amd64)
+2022-07-28 09:48:10,321 [    349]   INFO - #c.i.i.StartupUtil - JRE: 11.0.15+10-b2043.56 (JetBrains s.r.o.)
+2022-07-28 09:48:10,321 [    349]   INFO - #c.i.i.StartupUtil - JVM: 11.0.15+10-b2043.56 (OpenJDK 64-Bit Server VM)
+2022-07-28 09:48:10,326 [    354]   INFO - #c.i.i.StartupUtil - PID: 23336
+2022-07-28 09:48:10,326 [    354]   INFO - #c.i.i.StartupUtil - JVM options: [exit, -Xms128m, -Xmx750m, -XX:ReservedCodeCacheSize=512m, -XX:+IgnoreUnrecognizedVMOptions, -XX:+UseG1GC, -XX:SoftRefLRUPolicyMSPerMB=50, -XX:CICompilerCount=2, -XX:+HeapDumpOnOutOfMemoryError, -XX:-OmitStackTraceInFastThrow, -ea, -Dsun.io.useCanonCaches=false, -Djdk.http.auth.tunneling.disabledSchemes="", -Djdk.attach.allowAttachSelf=true, -Djdk.module.illegalAccess.silent=true, -Dkotlinx.coroutines.debug=off, -Xmx2007m, -Djb.vmOptionsFile=C:\Users\rimea\AppData\Roaming\JetBrains\IdeaIC2022.1\idea64.exe.vmoptions, -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader, -Didea.strict.classpath=true, -Didea.vendor.name=JetBrains, -Didea.paths.selector=IdeaIC2022.1, -Didea.platform.prefix=Idea, -Didea.jre.check=true, -Dsplash=true, -Dide.native.launcher=true, -XX:ErrorFile=C:\Users\rimea\java_error_in_idea64_%p.log, -XX:HeapDumpPath=C:\Users\rimea\java_error_in_idea64.hprof]
+2022-07-28 09:48:10,327 [    355]   INFO - #c.i.i.StartupUtil - args: []
+2022-07-28 09:48:10,327 [    355]   INFO - #c.i.i.StartupUtil - library path: C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Windows Resource Kits\Tools\;C:\Program Files\Eclipse Adoptium\jdk-11.0.14.9-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Bandizip\;C:\Users\rimea\AppData\Local\Microsoft\WindowsApps;C:\Users\rimea\AppData\Local\GitHubDesktop\bin;C:\Users\rimea\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\rimea\AppData\Roaming\npm;C:\Program Files (x86)\sfdx\bin;.
+2022-07-28 09:48:10,328 [    356]   INFO - #c.i.i.StartupUtil - boot library path: C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\jbr\bin
+2022-07-28 09:48:10,344 [    372]   INFO - #c.i.i.StartupUtil - locale=ko_KR JNU=MS949 file.encoding=MS949
+  idea.config.path=C:\Users\rimea\AppData\Roaming\JetBrains\IdeaIC2022.1
+  idea.system.path=C:\Users\rimea\AppData\Local\JetBrains\IdeaIC2022.1
+  idea.plugins.path=C:\Users\rimea\AppData\Roaming\JetBrains\IdeaIC2022.1\plugins
+  idea.log.path=C:\Users\rimea\AppData\Local\JetBrains\IdeaIC2022.1\log
+2022-07-28 09:48:10,351 [    379]   INFO - #c.i.i.StartupUtil - CPU cores: 8; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@68c7764e[Running, parallelism = 7, size = 7, active = 2, running = 2, steals = 71, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@16b5ff08
+2022-07-28 09:48:10,642 [    670]   INFO - #c.i.a.o.PathMacrosImpl - Loaded path macros: {MAVEN_REPOSITORY=C:\Users\rimea\.m2\repository}
+2022-07-28 09:48:10,661 [    689]   INFO - #o.j.i.BuiltInServerManager - built-in server started, port 63342
+2022-07-28 09:48:10,736 [    764]   INFO - #c.i.d.DebugLogManager - Set DEBUG for the following categories: #com.illuminatedcloud.intellij.builder.IlluminatedCloudDeployOnSaveAllActionListener, #com.illuminatedcloud.intellij.builder.IlluminatedCloudSaveAllAction, #com.illuminatedcloud.intellij.builder.ForceComBuilder, #com.illuminatedcloud.intellij.builder.ForceComBuilderUtil, #com.illuminatedcloud.intellij.builder.ForceComMetadataApiDeployer, #com.illuminatedcloud.intellij.builder.ForceComSfdxMetadataDeployer, #com.illuminatedcloud.intellij.builder.ForceComSfdxDeployer, #com.illuminatedcloud.intellij.builder.ForceComSfdxMetadataUtil, #com.illuminatedcloud.intellij.builder.ForceComToolingApiDeployer, #com.illuminatedcloud.intellij.builder.ForceComBuildFailureAnnotator, #com.illuminatedcloud.util.VariableLengthPollingInterval
+2022-07-28 09:48:10,744 [    772]   INFO - #c.i.d.JitWatcher - JIT compilation state checking enabled
+2022-07-28 09:48:10,766 [    794]   INFO - #c.i.u.i.FilePageCache - lower=100; upper=500; buffer=10; max=1988
+2022-07-28 09:48:10,778 [    806]   INFO - #c.i.u.n.s.CertificateManager - Default SSL context initialized
+2022-07-28 09:48:10,881 [    909]   INFO - #c.i.o.e.c.i.AppFontOptions - Font setting migration: JetBrains Mono -> [JetBrains Mono, Regular, Bold]
+2022-07-28 09:48:10,925 [    953]   INFO - #c.i.o.v.n.p.PersistentFSConnector - 59 ms to load free records and inverted name index
+2022-07-28 09:48:11,506 [   1534]   INFO - #c.i.p.i.a.w.LegacyBridgeArtifactManagerRedefiner - Using workspace model to open project
+2022-07-28 09:48:11,796 [   1824]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin\fsnotifier.exe
+2022-07-28 09:48:11,816 [   1844]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Native file watcher is operational.
+2022-07-28 09:48:11,824 [   1852]   INFO - #c.i.o.v.i.w.WslFileWatcher - WSL file watcher: C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin\fsnotifier-wsl
+2022-07-28 09:48:11,962 [   1990]   INFO - #c.i.p.c.ProjectCodeStyleSettingsManager - Initialized from default code style settings.
+2022-07-28 09:48:12,070 [   2098]   INFO - #c.i.w.i.i.WorkspaceModelImpl - Load workspace model from cache in 316 ms
+2022-07-28 09:48:12,071 [   2099]   INFO - #c.i.i.s.p.i.SharedIndexMainZipStorage - Shared Indexes Storage is opened and empty
+2022-07-28 09:48:12,108 [   2136]   INFO - STDOUT - Info  | RdCoroutineScope          | 27:JobScheduler FJ pool 6/7 | RdCoroutineHost overridden 
+2022-07-28 09:48:12,121 [   2149]   INFO - #c.j.r.p.c.d.H - sessionStatus: null
+2022-07-28 09:48:12,122 [   2150]   INFO - #c.j.r.p.c.d.H - freeSessionRemainingTimeMs: null null
+2022-07-28 09:48:12,144 [   2172]   WARN - #c.i.n.i.NotificationGroupManagerImpl - Notification group CodeWithMe is already registered (group=com.intellij.notification.NotificationGroup@62b1cc72). Plugin descriptor: PluginDescriptor(name=Code With Me, id=com.jetbrains.codeWithMe, descriptorPath=plugin.xml, path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\plugins\cwm-plugin, version=221.5921.22, package=null, isBundled=true)
+2022-07-28 09:48:12,210 [   2238]   INFO - #c.j.r.p.c.t.i.DistributedTestHost - Host address=localhost/127.0.0.1
+2022-07-28 09:48:12,732 [   2760]   INFO - #c.i.i.n.e.NewToolbarRootPaneExtension - Show old main toolbar: true; show old navigation bar: true
+2022-07-28 09:48:12,733 [   2761]   INFO - #c.i.i.n.e.NewToolbarRootPaneExtension - Show new main toolbar: false
+2022-07-28 09:48:13,093 [   3121]   INFO - #JetprofileSource - License not found
+2022-07-28 09:48:13,320 [   3348]   INFO - #c.i.i.l.LicenseValidator - Initializing Illuminated Cloud 2.2.2.9 (20220725111146).
+2022-07-28 09:48:13,320 [   3348]   INFO - #c.i.i.l.LicenseValidator - Validating certificate.
+2022-07-28 09:48:13,322 [   3350]   INFO - #c.i.i.l.LicenseValidator - Successfully validated certificate.
+2022-07-28 09:48:13,322 [   3350]   INFO - #c.i.i.l.SignedJarVerifier - Verifying application contents.
+2022-07-28 09:48:13,586 [   3614]   INFO - #c.i.u.i.FileBasedIndexImpl - Indices to be built:FilenameIndex(v = 258)
+2022-07-28 09:48:13,597 [   3625]   INFO - c.i.u.i.FileBasedIndexDataInitialization - Index data initialization done: 2281 ms. Initialized indexes: [CaseInsensitiveFilenameIndex, FilenameIndex, FrameworkDetectionIndex, TodoIndex, IdIndex, filetypes, Stubs, Trigram.Index, fileIncludes, DomFileIndex, RelaxSymbolIndex, XmlTagNames, XmlNamespaces, html5.custom.attributes.index, SchemaTypeInheritance, json.file.root.values, yaml.keys.name, editorconfig.index.name, xmlProperties, bytecodeAnalysis, java.auto.module.name, java.source.module.name, java.null.method.argument, java.fun.expression, java.binary.plus.expression, JavaFxControllerClassIndex, javafx.id.name, javafx.custom.component, org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex, org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinPartialPackageNamesIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinBuiltInsMetadataIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex, org.jetbrains.kotlin.idea.vfilefinder.KlibMetaFileIndex, com.intellij.uiDesigner.FormClassIndex, XsltSymbolIndex, groovy.trait.fields, groovy.trait.methods, LombokConfigIndex, ant-imports, ApexNamespaceIndex, ApexDeclarationShortNameIndex, AuraEnabledApexDeclarationShortNameIndex, ApexTypeDeclarationShortNameIndex, ApexSObjectTypeShortNameIndex, ApexSObjectTypeFullNameIndex, ApexDerivedTypeDeclarationIndex, ApexDerivedInvokableDeclarationIndex, com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME, BindingXmlIndex, MlModelFileIndex, NavXmlIndex, IdeaPluginRegistrationIndex, PluginIdModuleIndex, PluginIdDependenciesIndex, devkit.ExtensionPointIndex, devkit.ExtensionPointClassIndex].
+2022-07-28 09:48:13,763 [   3791]   INFO - c.i.p.s.StubIndexImpl$StubIndexInitialization - Index data initialization done: 164 ms. Initialized stub indexes: {gr.script.class, org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex, dom.elementClass, gr.anonymous.class, org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex, java.class.shortname, gr.class.fqn, properties.index, org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex, org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex, org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex, java.method.name, org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex, org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex, ApexTypeDeclarationStubIndex, org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex, org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex, markdown.header, gr.annot.members, org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex, org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex, org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex, java.module.name, org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex, java.field.name, org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex, org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex, org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex, org.jetbrains.kotlin.idea.stubindex.KotlinExtensionsInObjectsByReceiverTypeIndex, gr.annot.method.name, gr.method.name, jvm.static.member.type, org.jetbrains.kotlin.idea.stubindex.KotlinSubclassObjectNameIndex, org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex, org.jetbrains.kotlin.idea.stubindex.KotlinJvmNameAnnotationIndex, kotlin.primeIndexKey, org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex, gr.class.super, jvm.static.member.name, java.annotations, gr.script.fqn, org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex, org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex, org.jetbrains.kotlin.idea.stubindex.KotlinProbablyContractedFunctionShortNameIndex, org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex, org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex, java.method.parameter.types, org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex, org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex, dom.namespaceKey, java.class.fqn, org.jetbrains.kotlin.idea.stubindex.KotlinInnerTypeAliasClassIdIndex, org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex, java.anonymous.baseref, org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex, gr.field.name, java.class.extlist, ApexDeclarationStubIndex}.
+2022-07-28 09:48:14,406 [   4434]   INFO - #c.i.i.l.SignedJarVerifier - Successfully verified application contents.
+2022-07-28 09:48:14,406 [   4434]   INFO - #c.i.i.l.LicenseValidator - Initializing the licensing system.
+2022-07-28 09:48:14,434 [   4462]   INFO - #c.i.i.l.LicenseValidator - Validating libraries.
+2022-07-28 09:48:14,513 [   4541]   INFO - #c.i.i.l.LicenseValidator - Successfully validated libraries.
+2022-07-28 09:48:14,708 [   4736]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2133 ms since showing to preload popup menu 'Edit' at 'MainMenu' in 100 ms
+2022-07-28 09:48:14,719 [   4747]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2149 ms since showing to preload popup menu 'File' at 'MainMenu' in 123 ms
+2022-07-28 09:48:14,795 [   4823]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2224 ms since showing to preload popup menu 'Navigate' at 'MainMenu' in 190 ms
+2022-07-28 09:48:14,857 [   4885]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2286 ms since showing to preload popup menu 'View' at 'MainMenu' in 252 ms
+2022-07-28 09:48:14,877 [   4905]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2307 ms since showing to preload popup menu 'Code' at 'MainMenu' in 273 ms
+2022-07-28 09:48:14,883 [   4911]   WARN - #c.a.t.i.a.v.AnalyzeApkAction - Unable to obtain project from event
+2022-07-28 09:48:14,890 [   4918]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2320 ms since showing to preload popup menu 'Build' at 'MainMenu' in 286 ms
+2022-07-28 09:48:14,893 [   4921]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2323 ms since showing to preload popup menu 'Refactor' at 'MainMenu' in 289 ms
+2022-07-28 09:48:14,945 [   4973]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2375 ms since showing to preload popup menu 'Tools' at 'MainMenu' in 340 ms
+2022-07-28 09:48:14,956 [   4984]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2385 ms since showing to preload popup menu 'Run' at 'MainMenu' in 351 ms
+2022-07-28 09:48:14,965 [   4993]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2394 ms since showing to preload popup menu 'Window' at 'MainMenu' in 359 ms
+2022-07-28 09:48:14,980 [   5008]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2409 ms since showing to preload popup menu 'Help' at 'MainMenu' in 374 ms
+2022-07-28 09:48:15,813 [   5841]   INFO - #c.i.o.a.Experiments - Experimental features enabled for user: wsl.p9.support, wsl.prefer.p9.support, wsl.p9.show.roots.in.file.chooser, wsl.execute.with.wsl.exe, linux.native.menu, recent.and.edited.files.together, show.create.new.element.in.popup, search.everywhere.mixed.results, new.project.wizard, editor.reader.mode, new.large.text.file.viewer, wsl.fsd.content.loader, terminal.shell.command.handling
+2022-07-28 09:48:16,127 [   6155]   INFO - #c.i.x.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.1.3/lib/app.jar!/resources/html5-schema/html5.rnc
+2022-07-28 09:48:16,143 [   6171]   INFO - #c.i.x.Html5SchemaProvider - CHARS_DTD_LOCATION = C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.1.3/lib/app.jar!/resources/html5-schema/html5chars.ent
+2022-07-28 09:48:17,308 [   7336]   INFO - #c.i.o.u.i.UpdateCheckerService - channel: release
+2022-07-28 09:48:17,589 [   7617]   INFO - #c.i.o.e.s.p.m.ExternalProjectsDataStorage - Load external projects data in 11 millis (read time: 1)
+2022-07-28 09:48:17,839 [   7867]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Illuminated Cloud) or icon ImageDataByPathLoader(classLoader=PluginClassLoader(plugin=PluginDescriptor(name=Illuminated Cloud 2, id=com.illuminatedcloud2.intellij, descriptorPath=plugin.xml, path=~\AppData\Roaming\JetBrains\IdeaIC2022.1\plugins\IlluminatedCloud2, version=2.2.2.9, package=null, isBundled=false), packagePrefix=null, instanceId=132, state=active), path=images/module_facet_icon_16x16.svg, original=null)
+2022-07-28 09:48:17,843 [   7871]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Anonymous Apex) or icon RasterizedImageDataLoader(, classLoader=com.intellij.util.lang.PathClassLoader@1c53fd30, path='debugger/console.svg')
+2022-07-28 09:48:17,846 [   7874]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  SOQL Query) or icon RasterizedImageDataLoader(, classLoader=com.intellij.util.lang.PathClassLoader@1c53fd30, path='nodes/dataSchema.svg')
+2022-07-28 09:48:17,849 [   7877]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Log Analyzer) or icon RasterizedImageDataLoader(, classLoader=com.intellij.util.lang.PathClassLoader@1c53fd30, path='nodes/logFolder.svg')
+2022-07-28 09:48:17,852 [   7880]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Salesforce Functions) or icon RasterizedImageDataLoader(, classLoader=com.intellij.util.lang.PathClassLoader@1c53fd30, path='nodes/function.svg')
+2022-07-28 09:48:18,058 [   8086]   INFO - #c.i.c.CompilerWorkspaceConfiguration - Available processors: 8
+2022-07-28 09:48:18,262 [   8290]   INFO - #c.j.r.f.FollowMeManager - Register new user 0:'hjcheon' with ClientId=ClientId(value=Host)
+2022-07-28 09:48:18,420 [   8448]   WARN - #c.a.t.i.a.AvdManagerConnection - No Android SDK Found
+2022-07-28 09:48:18,434 [   8462]   INFO - #c.a.t.i.i.GMavenIndexRepository - HTTP not modified since the last request for URL: https://dl.google.com/android/studio/gmaven/index/release/v0.1/classes-v0.1.json.gz (etag: "ecb1ce").
+2022-07-28 09:48:18,435 [   8463]   INFO - #c.a.t.i.i.GMavenIndexRepository - Kept the old disk cache with an old ETag header: "ecb1ce".
+2022-07-28 09:48:19,132 [   9160]   INFO - #c.i.u.i.UnindexedFilesUpdater - Started indexing of mindful. Reason: On project open
+2022-07-28 09:48:19,150 [   9178]   INFO - #c.i.u.i.UnindexedFilesUpdater - Performing delayed pushing properties tasks for mindful took 13ms; general responsiveness: ok; EDT responsiveness: ok
+2022-07-28 09:48:19,213 [   9241]   INFO - #c.i.u.i.UnindexedFilesUpdater - Scanning of mindful uses 7 scanning threads
+2022-07-28 09:48:19,813 [   9841]   INFO - #c.i.i.s.IdeStartupScripts - 0 startup script(s) found
+2022-07-28 09:48:20,472 [  10500]   INFO - #c.i.u.i.UnindexedFilesUpdater - Scanning completed for mindful. Number of scanned files: 5515; Number of files for indexing: 0 took 1321ms; general responsiveness: ok; EDT responsiveness: ok
+2022-07-28 09:48:20,477 [  10505]   INFO - #c.i.u.i.UnindexedFilesUpdater - Finished for mindful. No files to index with loading content.
+2022-07-28 09:48:20,688 [  10716]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2159 ms since showing to preload popup menu 'Project View Popup Menu' at 'ProjectViewPopup' in 152 ms
+2022-07-28 09:48:21,044 [  11072]   INFO - #c.a.t.i.p.ProjectSystemService - DefaultProjectSystem project system has been detected
+2022-07-28 09:48:21,294 [  11322]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2546 ms since showing to preload popup menu 'Editor Popup Menu' at 'EditorPopup' in 532 ms
+2022-07-28 09:48:21,296 [  11324]   INFO - #c.i.o.a.i.PopupMenuPreloader - 2528 ms since showing to preload popup menu 'Editor Popup Menu' at 'EditorPopup' in 519 ms
+2022-07-28 09:48:21,484 [  11512]   INFO - c.i.s.v.a.s.d.SpaceKtsFileDetector - SpaceKtsFileDetector
+2022-07-28 09:48:21,487 [  11515]   INFO - #c.i.d.PerformanceWatcherImpl - Post-startup activities under progress took 4183ms; general responsiveness: ok; EDT responsiveness: 1/4 sluggish
+2022-07-28 09:48:21,488 [  11516]   INFO - #c.i.i.StartupUtil - notify that start-up thread is free
+2022-07-28 09:48:21,725 [  11753]   INFO - #c.i.i.l.LicenseValidator - Server license validation result was Genuine.
+2022-07-28 09:48:21,726 [  11754]   INFO - #c.i.i.l.LicenseValidator - Server license validation result was Genuine.
+2022-07-28 09:48:21,729 [  11757]   INFO - #c.i.i.l.LicenseValidator - Illuminated Cloud features are enabled.
+2022-07-28 09:48:21,730 [  11758]   INFO - #c.i.i.l.LicenseValidator - Server license validation result was Genuine.
+2022-07-28 09:48:21,732 [  11760]   INFO - #c.i.i.l.LicenseValidator - Server license validation result was Genuine.
+2022-07-28 09:48:21,733 [  11761]   INFO - #c.i.i.s.m.ModuleContentsSynchronizationListener - Initializing module contents synchronization listener.
+2022-07-28 09:48:21,734 [  11762]   FINE - #c.i.i.b.IlluminatedCloudSaveAllAction - Checking to see if the overridden Save All action is active.
+2022-07-28 09:48:21,741 [  11769]   FINE - #c.i.i.b.IlluminatedCloudSaveAllAction - The overridden Save All action is not active.
+2022-07-28 09:48:21,742 [  11770]   INFO - #c.i.i.i.LanguageInjectionPostStartupActivity - Trying to initialize SOQL/RegExp string literal language injection.
+2022-07-28 09:48:21,744 [  11772]   INFO - #c.i.i.r.IlluminatedCloudFileHandler - Initializing Illuminated Cloud file handler.
+2022-07-28 09:48:21,745 [  11773]   INFO - #c.i.i.u.IlluminatedCloudMarkdownUtil - The Markdown plugin is enabled.
+2022-07-28 09:48:21,774 [  11802]   INFO - #c.i.o.f.i.FileEditorManagerImpl - Project opening took 10320 ms
+2022-07-28 09:48:22,264 [  12292]   INFO - #c.i.i.f.IlluminatedCloudFileTypeRegistry - Registering external resources http://soap.sforce.com/2006/04/metadata and urn:metadata.tooling.soap.sforce.com as C:/Users/rimea/AppData/Roaming/JetBrains/IdeaIC2022.1/plugins/IlluminatedCloud2/lib/IlluminatedCloud.jar!/xsd/metadata.xsd.
+2022-07-28 09:48:22,274 [  12302]   INFO - #c.i.i.v.IlluminatedCloudStartupVersionValidator - Successfully referenced EmbeddedMarkupUtil when project 'mindful' was opened.
+2022-07-28 09:48:22,275 [  12303]   INFO - #c.i.i.v.IlluminatedCloudStartupVersionValidator -   The IDE version is 2022.1.3.
+2022-07-28 09:48:22,275 [  12303]   INFO - #c.i.i.v.IlluminatedCloudStartupVersionValidator - Verifying recommended minimum IDE version.
+2022-07-28 09:48:23,271 [  13299]   INFO - #c.i.o.a.i.PopupMenuPreloader - 4078 ms since showing to preload popup menu 'Project View Popup Menu' at 'ProjectViewPopup' in 66 ms
+2022-07-28 09:48:23,542 [  13570]   INFO - #c.i.l.a.c.i.AntConfigurationImpl - queueInitialization: initialized
+2022-07-28 09:48:25,930 [  15958]   WARN - #c.i.i.u.MetadataDescribeIndex - Failed to find a child metadata describe for ExternalDataSource.ExternalDataSrcDescriptor
+2022-07-28 09:48:25,930 [  15958]   WARN - #c.i.i.u.MetadataDescribeIndex - Failed to find a child metadata describe for SharingRules.SharingGuestRule
+2022-07-28 09:48:26,515 [  16543]   FINE - #c.i.i.b.ForceComBuilder - Initializing the Salesforce API client for connection mindful
+2022-07-28 09:48:26,620 [  16648]   INFO - o.a.c.w.s.f.ReflectionServiceFactoryBean - Creating Service {urn:partner.soap.sforce.com}PartnerService from class com.sforce.soap.partner.PartnerApi
+2022-07-28 09:48:26,624 [  16652]   INFO - #c.i.d.WindowsDefenderChecker - Windows Defender status: not used
+2022-07-28 09:48:27,159 [  17187]   INFO - #c.i.c.b.IsUpToDateCheckStartupActivity - activity started
+2022-07-28 09:48:27,456 [  17484]   INFO - #c.i.c.ForceComApiClient - Login successful for connection 'mindful'.
+2022-07-28 09:48:27,456 [  17484]   INFO - o.a.c.w.s.f.ReflectionServiceFactoryBean - Creating Service {urn:partner.soap.sforce.com}PartnerService from class com.sforce.soap.partner.PartnerApi
+2022-07-28 09:48:27,484 [  17512]   INFO - #c.i.c.ForceComApiClient - JAXB initialization for com.sforce.soap.partner.SessionHeader took 16 ms.
+2022-07-28 09:48:27,498 [  17526]   INFO - #c.i.c.ForceComApiClient - JAXB initialization for com.sforce.soap.partner.CallOptions took 13 ms.
+2022-07-28 09:48:27,546 [  17574]   FINE - #c.i.i.b.ForceComBuilder - Creating a metadata package for module mindful.
+2022-07-28 09:48:27,546 [  17574]   FINE - #c.i.i.b.ForceComBuilder -   Creating a metadata package based on an All/Package subscription.
+2022-07-28 09:48:27,800 [  17828]   INFO - #c.i.c.s.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.1.3/plugins/java/lib/jps-launcher.jar
+2022-07-28 09:48:28,498 [  18526]   INFO - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - KCRI storage is closed (didn't exist)
+2022-07-28 09:48:28,499 [  18527]   INFO - #c.i.c.b.CompilerReferenceServiceBase - backward reference index reader is closed (didn't exist)
+2022-07-28 09:48:29,051 [  19079]   INFO - #c.i.c.s.BuildManager - BUILDER_PROCESS [stderr]: WARNING: An illegal reflective access operation has occurred
+2022-07-28 09:48:29,052 [  19080]   INFO - #c.i.c.s.BuildManager - BUILDER_PROCESS [stderr]: WARNING: Illegal reflective access by com.intellij.util.ReflectionUtil (file:/C:/Program%20Files/JetBrains/IntelliJ%20IDEA%20Community%20Edition%202022.1.3/lib/util.jar) to method java.util.ResourceBundle.setParent(java.util.ResourceBundle)
+2022-07-28 09:48:29,053 [  19081]   INFO - #c.i.c.s.BuildManager - BUILDER_PROCESS [stderr]: WARNING: Please consider reporting this to the maintainers of com.intellij.util.ReflectionUtil
+2022-07-28 09:48:29,053 [  19081]   INFO - #c.i.c.s.BuildManager - BUILDER_PROCESS [stderr]: WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+2022-07-28 09:48:29,054 [  19082]   INFO - #c.i.c.s.BuildManager - BUILDER_PROCESS [stderr]: WARNING: All illegal access operations will be denied in a future release
+2022-07-28 09:48:29,358 [  19386]   INFO - #o.j.k.i.s.r.KotlinCompilerReferenceIndexService - initialized
+2022-07-28 09:48:29,362 [  19390]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2022-07-28 09:48:29,363 [  19391]   INFO - #c.i.c.ComponentStoreImpl - Saving appExternalResourceManagerImpl took 11 ms, FileTypeManager took 15 ms
+2022-07-28 09:48:29,363 [  19391]   INFO - #c.i.c.b.CompilerReferenceServiceBase - initialized
+2022-07-28 09:48:29,390 [  19418]   INFO - #c.i.c.b.IsUpToDateCheckStartupActivity - isUpToDate = false
+2022-07-28 09:48:29,391 [  19419]   INFO - #c.i.c.b.CompilerReferenceServiceBase - backward reference index reader is opened
+2022-07-28 09:48:29,407 [  19435]   INFO - #c.j.r.p.c.CodeWithMeCleanup - running activity to cleanup old thin clients... Root path is 'C:\Users\rimea\AppData\Local\JetBrains'. JvmStartTimeMs=1658969289781
+2022-07-28 09:48:29,411 [  19439]   INFO - #c.j.r.p.c.CodeWithMeCleanup - found 0 Code With Me client system folders to check
+2022-07-28 09:48:29,412 [  19440]   INFO - #c.j.r.p.c.CodeWithMeCleanup - found 0 Code With Me client config folders to check
+2022-07-28 09:48:29,413 [  19441]   INFO - #c.j.r.p.c.CodeWithMeCleanup - keep only [] major versions
+2022-07-28 09:48:29,651 [  19679]   INFO - #c.i.c.ComponentStoreImpl - Saving Project(name=mindful, containerState=COMPONENT_CREATED, componentStore=C:\Project\mindful)RunManager took 18 ms
+2022-07-28 09:48:29,694 [  19722]   FINE - #c.i.i.b.ForceComBuilder - Computing the server timezone offset using multiple samples.
+2022-07-28 09:48:29,698 [  19726]   INFO - o.a.c.w.s.f.ReflectionServiceFactoryBean - Creating Service {http://soap.sforce.com/2006/04/metadata}MetadataService from class com.sforce.soap.metadata.MetadataApi
+2022-07-28 09:48:29,814 [  19842]   INFO - #c.i.c.ForceComApiClient - JAXB initialization for com.sforce.soap.metadata.SessionHeader took 19 ms.
+2022-07-28 09:48:29,846 [  19874]   INFO - #c.i.c.ForceComApiClient - JAXB initialization for com.sforce.soap.metadata.CallOptions took 31 ms.
+2022-07-28 09:48:29,849 [  19877]   INFO - o.a.c.w.s.f.ReflectionServiceFactoryBean - Creating Service {http://soap.sforce.com/2006/08/apex}ApexService from class com.sforce.soap.apex.ApexApi
+2022-07-28 09:48:29,882 [  19910]   INFO - #c.i.c.ForceComApiClient - JAXB initialization for com.sforce.soap.apex.SessionHeader took 5 ms.
+2022-07-28 09:48:29,886 [  19914]   INFO - #c.i.c.ForceComApiClient - JAXB initialization for com.sforce.soap.apex.CallOptions took 4 ms.
+2022-07-28 09:48:29,889 [  19917]   INFO - o.a.c.w.s.f.ReflectionServiceFactoryBean - Creating Service {urn:tooling.soap.sforce.com}ToolingService from class com.sforce.soap.tooling.ToolingApi
+2022-07-28 09:48:30,058 [  20086]   INFO - #c.i.c.ForceComApiClient - JAXB initialization for com.sforce.soap.tooling.SessionHeader took 31 ms.
+2022-07-28 09:48:30,093 [  20121]   INFO - #c.i.c.ForceComApiClient - JAXB initialization for com.sforce.soap.tooling.CallOptions took 35 ms.
+2022-07-28 09:48:30,767 [  20795]   INFO - #c.i.i.b.ForceComBuilder - The average server timezone offset for 5 samples is -10 ms.
+2022-07-28 09:48:31,853 [  21881]   INFO - #c.i.i.c.FilePropertiesCache - Enumerated metadata for connection mindful in 1 s 85 ms.
+2022-07-28 09:48:31,943 [  21971]   FINE - #c.i.i.b.ForceComBuilder - Comparing local to server timestamps for classes/LeadController.cls:
+2022-07-28 09:48:31,943 [  21971]   FINE - #c.i.i.b.ForceComBuilder -   lastDeployedOrRetrievedDate = null
+2022-07-28 09:48:31,943 [  21971]   FINE - #c.i.i.b.ForceComBuilder -   serverLastModifiedDate      = null
+2022-07-28 09:48:31,954 [  21982]   FINE - #c.i.i.b.ForceComBuilder -   localLastModifiedDate       = Tue Jul 26 17:14:11 KST 2022 (raw)
+2022-07-28 09:48:31,954 [  21982]   FINE - #c.i.i.b.ForceComBuilder -   localLastModifiedDate       = Tue Jul 26 17:14:11 KST 2022 (adjusted)
+2022-07-28 09:48:31,954 [  21982]   FINE - #c.i.i.b.ForceComBuilder - Local file not on server: classes/LeadController.cls
+2022-07-28 09:48:31,955 [  21983]   FINE - #c.i.i.b.ForceComBuilder - Comparing local to server timestamps for classes/TestContoller.cls:
+2022-07-28 09:48:31,955 [  21983]   FINE - #c.i.i.b.ForceComBuilder -   lastDeployedOrRetrievedDate = null
+2022-07-28 09:48:31,955 [  21983]   FINE - #c.i.i.b.ForceComBuilder -   serverLastModifiedDate      = null
+2022-07-28 09:48:31,955 [  21983]   FINE - #c.i.i.b.ForceComBuilder -   localLastModifiedDate       = Tue Jul 26 18:00:36 KST 2022 (raw)
+2022-07-28 09:48:31,955 [  21983]   FINE - #c.i.i.b.ForceComBuilder -   localLastModifiedDate       = Tue Jul 26 18:00:36 KST 2022 (adjusted)
+2022-07-28 09:48:31,955 [  21983]   FINE - #c.i.i.b.ForceComBuilder - Local file not on server: classes/TestContoller.cls
+2022-07-28 09:48:31,955 [  21983]   FINE - #c.i.i.b.ForceComBuilder - Comparing local to server timestamps for lwc/accountUpdateComponent:
+2022-07-28 09:48:31,956 [  21984]   FINE - #c.i.i.b.ForceComBuilder -   lastDeployedOrRetrievedDate = Wed Jul 27 17:38:29 KST 2022
+2022-07-28 09:48:31,956 [  21984]   FINE - #c.i.i.b.ForceComBuilder -   serverLastModifiedDate      = Wed Jul 27 17:38:29 KST 2022
+2022-07-28 09:48:31,956 [  21984]   FINE - #c.i.i.b.ForceComBuilder -   localLastModifiedDate       = Wed Jul 27 17:38:55 KST 2022 (raw)
+2022-07-28 09:48:31,956 [  21984]   FINE - #c.i.i.b.ForceComBuilder -   localLastModifiedDate       = Wed Jul 27 17:38:55 KST 2022 (adjusted)
+2022-07-28 09:48:31,956 [  21984]   FINE - #c.i.i.b.ForceComBuilder - Local file newer than server representation: lwc/accountUpdateComponent
+2022-07-28 09:48:31,959 [  21987]   FINE - #c.i.i.b.ForceComBuilder - Validating conflict information.
+2022-07-28 09:48:31,959 [  21987]   FINE - #c.i.i.b.ForceComBuilder -   No merge information found.
+2022-07-28 09:48:31,963 [  21991]   FINE - #c.i.i.b.ForceComBuilder - Processing 1 build selections for file 'C:/Project/mindful/src/classes/LeadController.cls' in module 'mindful'.
+2022-07-28 09:48:31,963 [  21991]   FINE - #c.i.i.b.ForceComBuilder -   There is only one build selection. Trying to determine if it's for the parent or a single child.
+2022-07-28 09:48:31,963 [  21991]   FINE - #c.i.i.b.ForceComBuilder -     The build selection's metadata type is ApexClass.
+2022-07-28 09:48:31,963 [  21991]   FINE - #c.i.i.b.ForceComBuilder -     Adding the entire document for this file.
+2022-07-28 09:48:31,964 [  21992]   FINE - #c.i.i.b.ForceComBuilder - Processing 1 build selections for file 'C:/Project/mindful/src/classes/TestContoller.cls' in module 'mindful'.
+2022-07-28 09:48:31,964 [  21992]   FINE - #c.i.i.b.ForceComBuilder -   There is only one build selection. Trying to determine if it's for the parent or a single child.
+2022-07-28 09:48:31,964 [  21992]   FINE - #c.i.i.b.ForceComBuilder -     The build selection's metadata type is ApexClass.
+2022-07-28 09:48:31,964 [  21992]   FINE - #c.i.i.b.ForceComBuilder -     Adding the entire document for this file.
+2022-07-28 09:48:31,964 [  21992]   FINE - #c.i.i.b.ForceComBuilder - Processing 1 build selections for file 'C:/Project/mindful/src/lwc/accountUpdateComponent' in module 'mindful'.
+2022-07-28 09:48:31,964 [  21992]   FINE - #c.i.i.b.ForceComBuilder -   There is only one build selection. Trying to determine if it's for the parent or a single child.
+2022-07-28 09:48:31,964 [  21992]   FINE - #c.i.i.b.ForceComBuilder -     The build selection's metadata type is LightningComponentBundle.
+2022-07-28 09:48:31,965 [  21993]   FINE - #c.i.i.b.ForceComBuilder -     Adding the entire document for this file.
+2022-07-28 09:48:31,967 [  21995]   FINE - #c.i.i.b.ForceComBuilder - Asked to build the following files for buildEventType=SAVE, bulkDeploy=true, forceDeploy=true: {file://C:/Project/mindful/src/classes/LeadController.cls, file://C:/Project/mindful/src/classes/TestContoller.cls, file://C:/Project/mindful/src/lwc/accountUpdateComponent}.
+2022-07-28 09:48:32,071 [  22099]   FINE - #c.i.i.b.ForceComBuilder - This is an explicit check-only deployment.
+2022-07-28 09:48:32,073 [  22101]   FINE - #c.i.i.b.ForceComBuilder - Checking to see if C:/Project/mindful/src/lwc/accountUpdateComponent is part of a static resource bundle in a separate source root.
+2022-07-28 09:48:32,074 [  22102]   FINE - #c.i.i.b.ForceComBuilder - Checking to see if C:/Project/mindful/src/lwc/accountUpdateComponent is part of a Lightning bundle.
+2022-07-28 09:48:32,074 [  22102]   FINE - #c.i.i.b.ForceComBuilder -   It is. Adding all bundle contents for deployment.
+2022-07-28 09:48:32,075 [  22103]   FINE - #c.i.i.b.ForceComBuilder -   Adding file C:/Project/mindful/src/lwc/accountUpdateComponent/accountUpdateComponent.js.
+2022-07-28 09:48:32,075 [  22103]   FINE - #c.i.i.b.ForceComBuilder -   Adding file C:/Project/mindful/src/lwc/accountUpdateComponent/accountUpdateComponent.html.
+2022-07-28 09:48:32,079 [  22107]   FINE - #c.i.i.b.ForceComBuilder - Using native metadata API deployer to deploy the requested files.
+2022-07-28 09:48:32,079 [  22107]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Clearing build failures for all files requested for deployment.
+2022-07-28 09:48:32,081 [  22109]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Validating mindful in mindful
+2022-07-28 09:48:32,168 [  22196]   INFO - #c.i.w.i.i.j.s.DelayedProjectSynchronizer - Workspace model loaded from cache. Syncing real project state into workspace model in 2659 ms. Thread[ApplicationImpl pooled thread 14,4,main]
+2022-07-28 09:48:32,189 [  22217]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Using the metadata API to validate the following for module mindful: { accountUpdateComponent, LeadController.cls, LeadController.cls-meta.xml, TestContoller.cls, TestContoller.cls-meta.xml }.
+2022-07-28 09:48:32,192 [  22220]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Creating a deployment archive.
+2022-07-28 09:48:32,192 [  22220]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Processing file accountUpdateComponent
+2022-07-28 09:48:32,193 [  22221]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Processing file LeadController.cls
+2022-07-28 09:48:32,193 [  22221]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Processing file LeadController.cls-meta.xml
+2022-07-28 09:48:32,193 [  22221]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Processing file TestContoller.cls
+2022-07-28 09:48:32,193 [  22221]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Processing file TestContoller.cls-meta.xml
+2022-07-28 09:48:32,193 [  22221]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Adding files to the archive:
+2022-07-28 09:48:32,194 [  22222]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'accountUpdateComponent.js' as 'lwc/accountUpdateComponent/accountUpdateComponent.js'
+2022-07-28 09:48:32,196 [  22224]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'accountUpdateComponent.html' as 'lwc/accountUpdateComponent/accountUpdateComponent.html'
+2022-07-28 09:48:32,197 [  22225]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'accountUpdateComponent.js-meta.xml' as 'lwc/accountUpdateComponent/accountUpdateComponent.js-meta.xml'
+2022-07-28 09:48:32,197 [  22225]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'LeadController.cls' as 'classes/LeadController.cls'
+2022-07-28 09:48:32,197 [  22225]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'LeadController.cls-meta.xml' as 'classes/LeadController.cls-meta.xml'
+2022-07-28 09:48:32,197 [  22225]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'TestContoller.cls' as 'classes/TestContoller.cls'
+2022-07-28 09:48:32,198 [  22226]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'TestContoller.cls-meta.xml' as 'classes/TestContoller.cls-meta.xml'
+2022-07-28 09:48:32,198 [  22226]   FINE - #c.i.i.b.ForceComBuilder - Creating a metadata package for module mindful.
+2022-07-28 09:48:32,198 [  22226]   FINE - #c.i.i.b.ForceComBuilder -   Creating a metadata package based on an All/Package subscription.
+2022-07-28 09:48:32,210 [  22238]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Using the following package.xml for deployment:
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>LeadController</members>
+        <members>TestContoller</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>accountUpdateComponent</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <version>55.0</version>
+</Package>
+
+2022-07-28 09:48:32,212 [  22240]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Setting rollback-on-error to true because of the selected value for deploymentOptions.isIgnoreErrors().
+2022-07-28 09:48:32,212 [  22240]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Submitting deployment request:
+{
+  "allowMissingFiles": true,
+  "autoUpdatePackage": false,
+  "checkOnly": true,
+  "ignoreWarnings": false,
+  "performRetrieve": false,
+  "purgeOnDelete": false,
+  "rollbackOnError": true,
+  "singlePackage": true,
+  "testLevel": "NO_TEST_RUN"
+}
+2022-07-28 09:48:32,348 [  22376]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Submitted with ID = 0Af5h00000DZmnTCAT
+2022-07-28 09:48:32,350 [  22378]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Polling the status of the deployment.
+2022-07-28 09:48:32,483 [  22511]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Deployment is still processing with status IN_PROGRESS.
+2022-07-28 09:48:32,485 [  22513]   FINE - #c.i.u.VariableLengthPollingInterval - ForceComMetadataApiDeployer.waitForDeploymentToComplete: Using polling interval 1000 ms for polling iteration 1.
+2022-07-28 09:48:33,500 [  23528]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Polling the status of the deployment.
+2022-07-28 09:48:33,590 [  23618]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Deployment is still processing with status IN_PROGRESS.
+2022-07-28 09:48:33,590 [  23618]   FINE - #c.i.u.VariableLengthPollingInterval - ForceComMetadataApiDeployer.waitForDeploymentToComplete: Using polling interval 1000 ms for polling iteration 2.
+2022-07-28 09:48:34,595 [  24623]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Polling the status of the deployment.
+2022-07-28 09:48:34,777 [  24805]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Processing the deployment result:
+{
+  "checkOnly": true,
+  "completedDate": 1658969314000,
+  "createdBy": "0055h0000054i9T",
+  "createdByName": "혜정 천",
+  "createdDate": 1658969312000,
+  "details": {
+    "componentSuccesses": [
+      {
+        "changed": true,
+        "componentType": "ApexClass",
+        "created": true,
+        "createdDate": 1658969313000,
+        "deleted": false,
+        "fileName": "classes/LeadController.cls",
+        "fullName": "LeadController",
+        "id": "01p5h00000K3CmYAAV",
+        "success": true
+      },
+      {
+        "changed": true,
+        "componentType": "",
+        "created": false,
+        "createdDate": 1658969313000,
+        "deleted": false,
+        "fileName": "package.xml",
+        "fullName": "package.xml",
+        "success": true
+      },
+      {
+        "changed": true,
+        "componentType": "LightningComponentBundle",
+        "created": false,
+        "createdDate": 1658969313000,
+        "deleted": false,
+        "fileName": "lwc/accountUpdateComponent",
+        "fullName": "accountUpdateComponent",
+        "id": "0Rb5h000000HMF8CAO",
+        "success": true
+      },
+      {
+        "changed": true,
+        "componentType": "ApexClass",
+        "created": true,
+        "createdDate": 1658969313000,
+        "deleted": false,
+        "fileName": "classes/TestContoller.cls",
+        "fullName": "TestContoller",
+        "id": "01p5h00000K3CmZAAV",
+        "success": true
+      }
+    ],
+    "runTestResult": {
+      "numFailures": 0,
+      "numTestsRun": 0,
+      "totalTime": 0.0
+    }
+  },
+  "done": true,
+  "id": "0Af5h00000DZmnTCAT",
+  "ignoreWarnings": false,
+  "lastModifiedDate": 1658969314000,
+  "numberComponentErrors": 0,
+  "numberComponentsDeployed": 3,
+  "numberComponentsTotal": 3,
+  "numberTestErrors": 0,
+  "numberTestsCompleted": 0,
+  "numberTestsTotal": 0,
+  "rollbackOnError": true,
+  "runTestsEnabled": false,
+  "startDate": 1658969312000,
+  "status": "SUCCEEDED",
+  "success": true
+}
+2022-07-28 09:48:34,777 [  24805]   INFO - #c.i.i.b.ForceComMetadataApiDeployer - Deployment status = SUCCEEDED
+2022-07-28 09:48:34,778 [  24806]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Processing 4 component successes.
+2022-07-28 09:48:34,780 [  24808]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Successfully validated classes/LeadController.cls
+2022-07-28 09:48:34,780 [  24808]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Successfully validated package.xml
+2022-07-28 09:48:34,780 [  24808]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Successfully validated lwc/accountUpdateComponent
+2022-07-28 09:48:34,780 [  24808]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Successfully validated classes/TestContoller.cls
+2022-07-28 09:48:34,970 [  24998]   FINE - #c.i.i.b.ForceComBuilder - Creating a metadata package for module mindful.
+2022-07-28 09:48:34,970 [  24998]   FINE - #c.i.i.b.ForceComBuilder -   Creating a metadata package based on an All/Package subscription.
+2022-07-28 09:48:42,468 [  32496]   INFO - #c.i.c.ComponentStoreImpl - Saving appIlluminatedCloudSettings took 12 ms
+2022-07-28 09:48:43,147 [  33175]   INFO - #c.i.i.c.FilePropertiesCache - Enumerated metadata for connection mindful in 662 ms.
+2022-07-28 09:48:43,153 [  33181]   FINE - #c.i.i.b.ForceComBuilder - Comparing local to server timestamps for classes/LeadController.cls:
+2022-07-28 09:48:43,154 [  33182]   FINE - #c.i.i.b.ForceComBuilder -   lastDeployedOrRetrievedDate = null
+2022-07-28 09:48:43,154 [  33182]   FINE - #c.i.i.b.ForceComBuilder -   serverLastModifiedDate      = null
+2022-07-28 09:48:43,154 [  33182]   FINE - #c.i.i.b.ForceComBuilder -   localLastModifiedDate       = Tue Jul 26 17:14:11 KST 2022 (raw)
+2022-07-28 09:48:43,154 [  33182]   FINE - #c.i.i.b.ForceComBuilder -   localLastModifiedDate       = Tue Jul 26 17:14:11 KST 2022 (adjusted)
+2022-07-28 09:48:43,154 [  33182]   FINE - #c.i.i.b.ForceComBuilder - Local file not on server: classes/LeadController.cls
+2022-07-28 09:48:43,155 [  33183]   FINE - #c.i.i.b.ForceComBuilder - Comparing local to server timestamps for classes/TestContoller.cls:
+2022-07-28 09:48:43,155 [  33183]   FINE - #c.i.i.b.ForceComBuilder -   lastDeployedOrRetrievedDate = null
+2022-07-28 09:48:43,155 [  33183]   FINE - #c.i.i.b.ForceComBuilder -   serverLastModifiedDate      = null
+2022-07-28 09:48:43,155 [  33183]   FINE - #c.i.i.b.ForceComBuilder -   localLastModifiedDate       = Tue Jul 26 18:00:36 KST 2022 (raw)
+2022-07-28 09:48:43,155 [  33183]   FINE - #c.i.i.b.ForceComBuilder -   localLastModifiedDate       = Tue Jul 26 18:00:36 KST 2022 (adjusted)
+2022-07-28 09:48:43,155 [  33183]   FINE - #c.i.i.b.ForceComBuilder - Local file not on server: classes/TestContoller.cls
+2022-07-28 09:48:43,167 [  33195]   FINE - #c.i.i.b.ForceComBuilder - Comparing local to server timestamps for lwc/test:
+2022-07-28 09:48:43,167 [  33195]   FINE - #c.i.i.b.ForceComBuilder -   lastDeployedOrRetrievedDate = null
+2022-07-28 09:48:43,167 [  33195]   FINE - #c.i.i.b.ForceComBuilder -   serverLastModifiedDate      = null
+2022-07-28 09:48:43,167 [  33195]   FINE - #c.i.i.b.ForceComBuilder -   localLastModifiedDate       = Tue Jul 19 14:09:45 KST 2022 (raw)
+2022-07-28 09:48:43,167 [  33195]   FINE - #c.i.i.b.ForceComBuilder -   localLastModifiedDate       = Tue Jul 19 14:09:45 KST 2022 (adjusted)
+2022-07-28 09:48:43,167 [  33195]   FINE - #c.i.i.b.ForceComBuilder - Local file not on server: lwc/test
+2022-07-28 09:48:43,169 [  33197]   FINE - #c.i.i.b.ForceComBuilder - Validating conflict information.
+2022-07-28 09:48:43,169 [  33197]   FINE - #c.i.i.b.ForceComBuilder -   No merge information found.
+2022-07-28 09:48:43,170 [  33198]   FINE - #c.i.i.b.ForceComBuilder - Processing 1 build selections for file 'C:/Project/mindful/src/classes/LeadController.cls' in module 'mindful'.
+2022-07-28 09:48:43,170 [  33198]   FINE - #c.i.i.b.ForceComBuilder -   There is only one build selection. Trying to determine if it's for the parent or a single child.
+2022-07-28 09:48:43,170 [  33198]   FINE - #c.i.i.b.ForceComBuilder -     The build selection's metadata type is ApexClass.
+2022-07-28 09:48:43,170 [  33198]   FINE - #c.i.i.b.ForceComBuilder -     Adding the entire document for this file.
+2022-07-28 09:48:43,170 [  33198]   FINE - #c.i.i.b.ForceComBuilder - Processing 1 build selections for file 'C:/Project/mindful/src/classes/TestContoller.cls' in module 'mindful'.
+2022-07-28 09:48:43,171 [  33199]   FINE - #c.i.i.b.ForceComBuilder -   There is only one build selection. Trying to determine if it's for the parent or a single child.
+2022-07-28 09:48:43,171 [  33199]   FINE - #c.i.i.b.ForceComBuilder -     The build selection's metadata type is ApexClass.
+2022-07-28 09:48:43,171 [  33199]   FINE - #c.i.i.b.ForceComBuilder -     Adding the entire document for this file.
+2022-07-28 09:48:43,171 [  33199]   FINE - #c.i.i.b.ForceComBuilder - Processing 1 build selections for file 'C:/Project/mindful/src/lwc/test' in module 'mindful'.
+2022-07-28 09:48:43,172 [  33200]   FINE - #c.i.i.b.ForceComBuilder -   There is only one build selection. Trying to determine if it's for the parent or a single child.
+2022-07-28 09:48:43,172 [  33200]   FINE - #c.i.i.b.ForceComBuilder -     The build selection's metadata type is LightningComponentBundle.
+2022-07-28 09:48:43,172 [  33200]   FINE - #c.i.i.b.ForceComBuilder -     Adding the entire document for this file.
+2022-07-28 09:48:43,172 [  33200]   FINE - #c.i.i.b.ForceComBuilder - Asked to build the following files for buildEventType=SAVE, bulkDeploy=true, forceDeploy=true: {file://C:/Project/mindful/src/lwc/test, file://C:/Project/mindful/src/classes/LeadController.cls, file://C:/Project/mindful/src/classes/TestContoller.cls}.
+2022-07-28 09:48:43,172 [  33200]   FINE - #c.i.i.b.ForceComBuilder - This is an explicit check-only deployment.
+2022-07-28 09:48:43,172 [  33200]   FINE - #c.i.i.b.ForceComBuilder - Checking to see if C:/Project/mindful/src/lwc/test is part of a static resource bundle in a separate source root.
+2022-07-28 09:48:43,172 [  33200]   FINE - #c.i.i.b.ForceComBuilder - Checking to see if C:/Project/mindful/src/lwc/test is part of a Lightning bundle.
+2022-07-28 09:48:43,173 [  33201]   FINE - #c.i.i.b.ForceComBuilder -   It is. Adding all bundle contents for deployment.
+2022-07-28 09:48:43,173 [  33201]   FINE - #c.i.i.b.ForceComBuilder -   Adding file C:/Project/mindful/src/lwc/test/test.html.
+2022-07-28 09:48:43,173 [  33201]   FINE - #c.i.i.b.ForceComBuilder -   Adding file C:/Project/mindful/src/lwc/test/test.js.
+2022-07-28 09:48:43,173 [  33201]   FINE - #c.i.i.b.ForceComBuilder - Using native metadata API deployer to deploy the requested files.
+2022-07-28 09:48:43,174 [  33202]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Clearing build failures for all files requested for deployment.
+2022-07-28 09:48:43,174 [  33202]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Validating mindful in mindful
+2022-07-28 09:48:43,185 [  33213]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Using the metadata API to validate the following for module mindful: { LeadController.cls, LeadController.cls-meta.xml, test, TestContoller.cls, TestContoller.cls-meta.xml }.
+2022-07-28 09:48:43,185 [  33213]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Creating a deployment archive.
+2022-07-28 09:48:43,185 [  33213]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Processing file LeadController.cls
+2022-07-28 09:48:43,185 [  33213]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Processing file LeadController.cls-meta.xml
+2022-07-28 09:48:43,185 [  33213]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Processing file test
+2022-07-28 09:48:43,185 [  33213]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Processing file TestContoller.cls
+2022-07-28 09:48:43,185 [  33213]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Processing file TestContoller.cls-meta.xml
+2022-07-28 09:48:43,185 [  33213]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Adding files to the archive:
+2022-07-28 09:48:43,185 [  33213]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'LeadController.cls' as 'classes/LeadController.cls'
+2022-07-28 09:48:43,186 [  33214]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'LeadController.cls-meta.xml' as 'classes/LeadController.cls-meta.xml'
+2022-07-28 09:48:43,186 [  33214]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'test.js' as 'lwc/test/test.js'
+2022-07-28 09:48:43,186 [  33214]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'test.html' as 'lwc/test/test.html'
+2022-07-28 09:48:43,187 [  33215]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'test.js-meta.xml' as 'lwc/test/test.js-meta.xml'
+2022-07-28 09:48:43,187 [  33215]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'TestContoller.cls' as 'classes/TestContoller.cls'
+2022-07-28 09:48:43,187 [  33215]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -     'TestContoller.cls-meta.xml' as 'classes/TestContoller.cls-meta.xml'
+2022-07-28 09:48:43,187 [  33215]   FINE - #c.i.i.b.ForceComBuilder - Creating a metadata package for module mindful.
+2022-07-28 09:48:43,187 [  33215]   FINE - #c.i.i.b.ForceComBuilder -   Creating a metadata package based on an All/Package subscription.
+2022-07-28 09:48:43,189 [  33217]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Using the following package.xml for deployment:
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>LeadController</members>
+        <members>TestContoller</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>test</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <version>55.0</version>
+</Package>
+
+2022-07-28 09:48:43,191 [  33219]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Setting rollback-on-error to true because of the selected value for deploymentOptions.isIgnoreErrors().
+2022-07-28 09:48:43,191 [  33219]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Submitting deployment request:
+{
+  "allowMissingFiles": true,
+  "autoUpdatePackage": false,
+  "checkOnly": true,
+  "ignoreWarnings": false,
+  "performRetrieve": false,
+  "purgeOnDelete": false,
+  "rollbackOnError": true,
+  "singlePackage": true,
+  "testLevel": "NO_TEST_RUN"
+}
+2022-07-28 09:48:43,354 [  33382]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Submitted with ID = 0Af5h00000DZmndCAD
+2022-07-28 09:48:43,354 [  33382]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Polling the status of the deployment.
+2022-07-28 09:48:44,619 [  34647]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Deployment is still processing with status IN_PROGRESS.
+2022-07-28 09:48:44,620 [  34648]   FINE - #c.i.u.VariableLengthPollingInterval - ForceComMetadataApiDeployer.waitForDeploymentToComplete: Using polling interval 1000 ms for polling iteration 1.
+2022-07-28 09:48:45,625 [  35653]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Polling the status of the deployment.
+2022-07-28 09:48:45,795 [  35823]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Processing the deployment result:
+{
+  "checkOnly": true,
+  "completedDate": 1658969325000,
+  "createdBy": "0055h0000054i9T",
+  "createdByName": "혜정 천",
+  "createdDate": 1658969323000,
+  "details": {
+    "componentSuccesses": [
+      {
+        "changed": true,
+        "componentType": "ApexClass",
+        "created": true,
+        "createdDate": 1658969324000,
+        "deleted": false,
+        "fileName": "classes/LeadController.cls",
+        "fullName": "LeadController",
+        "id": "01p5h00000K3CmdAAF",
+        "success": true
+      },
+      {
+        "changed": true,
+        "componentType": "LightningComponentBundle",
+        "created": true,
+        "createdDate": 1658969325000,
+        "deleted": false,
+        "fileName": "lwc/test",
+        "fullName": "test",
+        "id": "0Rb5h000000HMJTCA4",
+        "success": true
+      },
+      {
+        "changed": true,
+        "componentType": "",
+        "created": false,
+        "createdDate": 1658969325000,
+        "deleted": false,
+        "fileName": "package.xml",
+        "fullName": "package.xml",
+        "success": true
+      },
+      {
+        "changed": true,
+        "componentType": "ApexClass",
+        "created": true,
+        "createdDate": 1658969325000,
+        "deleted": false,
+        "fileName": "classes/TestContoller.cls",
+        "fullName": "TestContoller",
+        "id": "01p5h00000K3CmeAAF",
+        "success": true
+      }
+    ],
+    "runTestResult": {
+      "numFailures": 0,
+      "numTestsRun": 0,
+      "totalTime": 0.0
+    }
+  },
+  "done": true,
+  "id": "0Af5h00000DZmndCAD",
+  "ignoreWarnings": false,
+  "lastModifiedDate": 1658969325000,
+  "numberComponentErrors": 0,
+  "numberComponentsDeployed": 3,
+  "numberComponentsTotal": 3,
+  "numberTestErrors": 0,
+  "numberTestsCompleted": 0,
+  "numberTestsTotal": 0,
+  "rollbackOnError": true,
+  "runTestsEnabled": false,
+  "startDate": 1658969323000,
+  "status": "SUCCEEDED",
+  "success": true
+}
+2022-07-28 09:48:45,796 [  35824]   INFO - #c.i.i.b.ForceComMetadataApiDeployer - Deployment status = SUCCEEDED
+2022-07-28 09:48:45,796 [  35824]   FINE - #c.i.i.b.ForceComMetadataApiDeployer - Processing 4 component successes.
+2022-07-28 09:48:45,796 [  35824]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Successfully validated classes/LeadController.cls
+2022-07-28 09:48:45,796 [  35824]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Successfully validated lwc/test
+2022-07-28 09:48:45,796 [  35824]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Successfully validated package.xml
+2022-07-28 09:48:45,797 [  35825]   FINE - #c.i.i.b.ForceComMetadataApiDeployer -   Successfully validated classes/TestContoller.cls
+2022-07-28 09:52:53,681 [ 283709]   INFO - #c.i.c.ComponentStoreImpl - Saving Project(name=mindful, containerState=COMPONENT_CREATED, componentStore=C:\Project\mindful)KotlinCommonCompilerArguments took 14 ms
+2022-07-28 09:53:15,229 [ 305257]   INFO - #c.i.c.ComponentStoreImpl - Saving appPluginAdvertiserExtensions took 11 ms
+2022-07-28 09:53:15,289 [ 305317]   INFO - #c.i.c.ComponentStoreImpl - Saving Project(name=mindful, containerState=COMPONENT_CREATED, componentStore=C:\Project\mindful)XDebuggerManager took 14 ms
+2022-07-28 09:53:22,745 [ 312773]   INFO - #c.i.i.b.BookmarkManager - no state loaded for old bookmarks
+2022-07-28 09:53:22,752 [ 312780]   INFO - #c.i.i.f.FavoritesManager - no state loaded for old favorites
+2022-07-28 09:58:11,352 [ 601380]   INFO - #c.i.e.w.WslDistributionManager - WSL is disabled in the system
